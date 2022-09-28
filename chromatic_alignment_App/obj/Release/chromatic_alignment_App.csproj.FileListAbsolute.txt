@@ -1,0 +1,11 @@
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\bin\Release\chromatic_alignment_App.exe.config
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\bin\Release\chromatic_alignment_App.exe
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\bin\Release\chromatic_alignment_App.pdb
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\bin\Release\Align_Chrom_mzML.dll
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\bin\Release\XmlMzML.dll
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.csproj.AssemblyReference.cache
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.csproj.SuggestedBindingRedirects.cache
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.csproj.CoreCompileInputs.cache
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.csproj.CopyComplete
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.exe
+C:\Workplace\C#\chromatic_alignment_App\chromatic_alignment_App\chromatic_alignment_App\obj\Release\chromatic_alignment_App.pdb
